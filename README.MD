@@ -5,4 +5,4 @@
 * angular todo app
 * karma-jasmine 테스트 실행
 * github 테스트
-* develop branch입니다.
+* 이것은 통합 브랜치입니다.
