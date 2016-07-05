@@ -4,3 +4,4 @@
 간단하게 다음과 같은 테스트를 했습니다.
 * angular todo app
 * karma-jasmine 테스트 실행
+* github 테스트
