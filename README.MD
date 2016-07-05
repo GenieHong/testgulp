@@ -5,3 +5,4 @@
 * angular todo app
 * karma-jasmine 테스트 실행
 * github 테스트
+* 이것은 master 브랜치입니다.
